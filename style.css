@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url('33.jpg'); /* Path ke gambar background */
+    background-image: url("33.jpg"); /* Path ke gambar background */
     background-size: cover; /* Gambar menutupi seluruh layar */
     background-position: center; /* Gambar di pusatkan */
     background-repeat: no-repeat; /* Gambar tidak diulang */
